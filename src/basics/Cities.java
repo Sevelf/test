@@ -6,7 +6,7 @@ package basics;
 public class Cities {
 
     public static void main (String[] args) {
-        String[] letters = {"A", "B", "C", "D"};
+        String[] letters = {"A", "B", "C", "D", "E"};
         //System.out.println(letters[0]);
 
         int index = 0;
